@@ -8,3 +8,4 @@ Intermediate/**
 *.VC.db
 *.VC.opendb
 *.pdb
+.vs/

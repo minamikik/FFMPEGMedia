@@ -11,7 +11,7 @@ extern "C" {
 
 FFMPEGClock::FFMPEGClock()
 {
-    pts = 0.0;           
+    pts = 0.0;
     pts_drift = 0.0;     
     last_updated = 0.0;
     speed = 0.0;

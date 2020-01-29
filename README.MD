@@ -18,3 +18,7 @@ A plugin that let's you use the FFMPEG library as media player
 
 
 ![Player Overrrides](https://github.com/bakjos/FFMPEGMedia/raw/master/docs/mediatype.png)
+
+Tested by @minamikik  
+UE4.23.1 working.  
+UE4.24.2 not working.  
